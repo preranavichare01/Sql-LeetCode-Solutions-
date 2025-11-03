@@ -73,4 +73,4 @@ All queries are written in **MySQL syntax**, with neat formatting and comments t
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/25-LeetCode-SQL-Questions.git
+   git clone https://github.com/preranavichare01/Sql-LeetCode-Solutions-.git
